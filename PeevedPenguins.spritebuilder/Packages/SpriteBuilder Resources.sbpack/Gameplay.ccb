@@ -10,13 +10,20 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
+<<<<<<< HEAD
 	<integer>10</integer>
+=======
+	<integer>1</integer>
+>>>>>>> 37c684785d29feca946b77f15037c285f7eb7933
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
 	<integer>0</integer>
+<<<<<<< HEAD
 	<key>currentSequenceId</key>
 	<integer>0</integer>
+=======
+>>>>>>> 37c684785d29feca946b77f15037c285f7eb7933
 	<key>docDimensionsType</key>
 	<integer>2</integer>
 	<key>fileType</key>
@@ -38,6 +45,7 @@
 		<key>baseClass</key>
 		<string>CCNode</string>
 		<key>children</key>
+<<<<<<< HEAD
 		<array>
 			<dict>
 				<key>UUID</key>
@@ -805,6 +813,11 @@
 		</array>
 		<key>customClass</key>
 		<string>Gameplay</string>
+=======
+		<array/>
+		<key>customClass</key>
+		<string></string>
+>>>>>>> 37c684785d29feca946b77f15037c285f7eb7933
 		<key>displayName</key>
 		<string>CCNode</string>
 		<key>memberVarAssignmentName</key>
@@ -907,6 +920,7 @@
 			<integer>960</integer>
 		</dict>
 	</array>
+<<<<<<< HEAD
 	<key>sequences</key>
 	<array>
 		<dict>
@@ -946,6 +960,8 @@
 			</dict>
 		</dict>
 	</array>
+=======
+>>>>>>> 37c684785d29feca946b77f15037c285f7eb7933
 	<key>stageBorder</key>
 	<integer>1</integer>
 	<key>stageColor</key>
