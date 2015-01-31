@@ -33,6 +33,7 @@
 
 -(void) touchBegan:(UITouch *)touch withEvent:(UIEvent *)event
 {
+    CCLOG("here here here oooooh!")
     CGPoint touchLocation = [touch locationInNode:_contentNode];
     
     // start catapult dragging when a touch inside of the catapult arm occurs
